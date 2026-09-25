@@ -1,0 +1,6 @@
+{
+  "name": "AcadeX - Academic & Campus Life Hub",
+  "description": "AcadeX - Comprehensive academic and campus life organization platform with 6-class daily timetables, assignment alerts, live canteen availability, subject lecture notes repository, clubs, and editable academic calendar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
